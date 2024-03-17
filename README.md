@@ -1,6 +1,6 @@
-# Conference Kata
+# Electronics Recycling System
 
-System design for [Conference Kata](https://nealford.com/katas/kata?id=AllStuffNoCruft)
+System design for [Going Green](https://nealford.com/katas/kata?id=GoingGreen)
 
 ### System Landscape
 ![Component View](workspace/.structurizr/images/Component-002-thumbnail.png)
@@ -13,7 +13,7 @@ System design for [Conference Kata](https://nealford.com/katas/kata?id=AllStuffN
 Execute this command to run a Docker container with a structurizr lite image.
 
 ```bash
-docker run --name structurizr --env=PORT=8080 --volume=$(pwd)/workspace:/usr/local/structurizr -p 8888:8080 -d structurizr/lite:latest
+docker run --name going-green --env=PORT=8080 --volume=$(pwd)/workspace:/usr/local/structurizr -p 8888:8080 -d structurizr/lite:latest
 ```
 
 ## Links
