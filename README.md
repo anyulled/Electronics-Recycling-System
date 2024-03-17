@@ -6,7 +6,7 @@ System design for [Going Green](https://nealford.com/katas/kata?id=GoingGreen)
 ![Component View](workspace/.structurizr/images/Component-002-thumbnail.png)
 
 ### Deployment view
-![Deployment view](workspace/.structurizr/images/Production-thumbnail.png)
+![Deployment view](workspace/.structurizr/images/Deployment-001-thumbnail.png)
 
 ## How to run this example
 
